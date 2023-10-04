@@ -1,4 +1,4 @@
-[
+const summary = [
   {
     "category": "Reaction",
     "score": 80,
@@ -20,3 +20,5 @@
     "icon": "./assets/images/icon-visual.svg"
   }
 ]
+
+export default summary
